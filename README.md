@@ -9,7 +9,7 @@ All datasets used in this study can be accessed via the original links provided 
 ```bibtex
 @article{li2025extending,
   title={Extending proteomic accessibility to transcriptome-only single-cell data through adaptive consensus learning},
-  author={Li Chen-Yang, Hong Yong-Jia, Li Bo and Zhang Xiao-Fei},
+  author={Li Bo, Li Chen-Yang, Hong Yong-Jia and Zhang Xiao-Fei},
   url={https://doi.org/10.5281/zenodo.17251049},
   year={2025},
 }
