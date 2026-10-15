@@ -40,7 +40,7 @@ root directory
 ```
 The `code` folder contains detailed tutorials and documentation for 12 base methods. The implementation pipeline of each method is illustrated using the 208-M2 → 208-M1 experiment in the CITE-SLN-Gayoso dataset as an example. Unless otherwise specified, the working directory for each program should be set to the `root directory/code/method`. The `outputs` folder is used to store all experimental results.
 
-After running the base methods independently and obtaining their respective results, AdaPro integrates these outputs into a consensus prediction. Detailed step-by-step guidance is provided in the notebook `run_AdaPro.ipynb`.
+After running the base methods independently and obtaining their respective results, AdaPro integrates these outputs into a consensus prediction. Detailed step-by-step guidance is provided in `run_AdaPro.py`.
 
 ## Contact
-For any questions or clarifications regarding the content or usage of this repository, please contact Mr. Chen-Yang Li (<lichy@mails.ccnu.edu.cn>) or Prof. Xiao-Fei Zhang (<zhangxf@ccnu.edu.cn>).
+For any questions or clarifications regarding the content or usage of this repository, please contact Dr. Chen-Yang Li (<lichy@mails.ccnu.edu.cn>) or Prof. Xiao-Fei Zhang (<zhangxf@ccnu.edu.cn>).
